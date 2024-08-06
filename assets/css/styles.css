@@ -329,7 +329,8 @@ body.light-theme {
 }
 
 .home__img {
-  width: 140px;
+  /* width: 100%; */
+  height: 90%;
 }
 
 .home__handle {
@@ -347,7 +348,7 @@ body.light-theme {
   align-items: flex-end;
   justify-content: center;
   overflow: hidden;
-}
+} 
 
 .home__button {
   display: flex;
