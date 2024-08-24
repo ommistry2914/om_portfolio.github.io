@@ -1,8 +1,8 @@
-**Introduction**
+## Introduction ##
 
 Welcome to my portfolio website! This site showcases my projects, skills, and experience as a web developer.
 
-**Features**
+## Features ##
 
 **Responsive Design:** Works on all devices, big or small.
 
@@ -12,11 +12,10 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 
 **Project Showcase:** Display of various projects with descriptions and links.
 
-**Technologies Used**
+## Technologies Used ##
 
 **HTML:** Markup language used for the structure of the website.
 
-**CSS:** Stylesheet language used for the presentation of the website.
 
 **SCSS:** Sassy CSS, a CSS preprocessor for writing more maintainable and efficient CSS.
 
