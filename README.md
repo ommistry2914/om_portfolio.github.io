@@ -21,4 +21,4 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 
 **JavaScript:** Programming language used to create interactive effects within web browsers.
 
-**Visit the site : https://omistri.vercel.app/**
+**Visit the site : https://om-mistri.vercel.app/**
